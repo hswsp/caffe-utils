@@ -2,13 +2,13 @@
 
 *Utilities for preparing the data and automating procedures*
 
-##Description
+## Description
 
 The repository contains some utilities I have created to simplify procedures using [caffe](https://github.com/BVLC/caffe) framework
 
-##Content
+## Content
 
-###hdf5
+### hdf5
 
 The folder contains the procedure to generate hdf5 dataset from the list of images with multiple labels. The simple example of creating the dataset can be tested by running [demo.m](https://github.com/nikogamulin/caffe-utils/blob/master/hdf5/demo.m) file.
 
